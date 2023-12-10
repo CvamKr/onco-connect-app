@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "153254935810",
+    "project_id": "onco-app-e14d1",
+    "storage_bucket": "onco-app-e14d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153254935810:android:4320933f45dd36c237961b",
+        "android_client_info": {
+          "package_name": "com.example.onco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153254935810-mslbvutj2ehf49tmlv5hru0a2ul6i6ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6y9T6j1UnnEZEhMuAZapeDm3gaKZXo5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153254935810-mslbvutj2ehf49tmlv5hru0a2ul6i6ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153254935810-46d2guo1g6rtuclfhv2ujd7ovi74i6d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oncoApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
